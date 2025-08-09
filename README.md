@@ -24,4 +24,9 @@ A simple and interactive daily task management app built using **HTML**, **CSS**
 - 🎨 Stylish UI with hover effects
 - 📋 Simple, clean, and responsive design
 - ⚡ Instant updates via JavaScript DOM manipulation
+
+## How to Run
+1. Download or clone the repository:
+   ```bash
+   git clone https://github.com/Prakruthi-G-H/Daily-task-manager.git
   
