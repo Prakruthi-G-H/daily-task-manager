@@ -20,6 +20,8 @@ A simple and interactive daily task management app built using **HTML**, **CSS**
 - ➕ Add new tasks instantly
 - ✅ Mark tasks as completed
 - 🗑 Delete tasks individually
+- 🗑 Clear all tasks at once
+- 🎨 Stylish UI with hover effects
 - 📋 Simple, clean, and responsive design
 - ⚡ Instant updates via JavaScript DOM manipulation
   
