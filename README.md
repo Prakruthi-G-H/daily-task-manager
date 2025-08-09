@@ -6,3 +6,11 @@ A simple and interactive daily task management app built using **HTML**, **CSS**
 - HTML – Structure of the app
 - CSS – Styling and animations
 - JavaScript – DOM Manipulation for dynamic updates
+
+
+## 📁 Project Structure
+
+- `TaskManager.html` → Main frontend HTML structure  
+- `TaskManager.css` →  Styling for layout and design
+- `TaskManager.js`  → JavaScript logic for adding, removing, and marking tasks
+- `README.md` → Project documentation
