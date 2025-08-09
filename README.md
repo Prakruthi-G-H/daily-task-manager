@@ -25,7 +25,7 @@ A simple and interactive daily task management app built using **HTML**, **CSS**
 - 📋 Simple, clean, and responsive design
 - ⚡ Instant updates via JavaScript DOM manipulation
 
-## How to Run
+## 🚀 How to Run
 1. Download or clone the repository:
    ```bash
    git clone https://github.com/Prakruthi-G-H/Daily-task-manager.git
@@ -33,4 +33,11 @@ A simple and interactive daily task management app built using **HTML**, **CSS**
 2. Open the folder in VS Code or any code editor.
 3. Open TaskManager.html in your browser or run using Live Server.
 4. Start adding and managing your daily tasks instantly — no backend required.
+
+## 👩‍💻 Developed by
+
+**Prakruthi G H**  
+📍 Bangalore, India  
+📧 prakruthigh28@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/prakruthi-g-h)
   
