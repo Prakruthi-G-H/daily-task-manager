@@ -21,7 +21,7 @@ Daily Task Manager - [Live Demo](https://prakruthi-g-h.github.io/Daily-task-mana
 ## ✨ Features
 
 - ➕ **Add New Tasks** – Instantly add tasks using the input field  
-- ✅ Mark tasks as completed
+- ✅ **Mark as Completed** – Check off tasks once they’re done  
 - 🗑 Delete tasks individually
 - 🗑 Clear all tasks at once
 - 🎨 Stylish UI with hover effects
