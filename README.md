@@ -40,6 +40,9 @@ Daily Task Manager - [Live Demo](https://prakruthi-g-h.github.io/Daily-task-mana
 
 ## ✨ Future Enhancements
 
+- 💾 Add local storage support to save tasks even after page reload
+
+  
 ## 👩‍💻 Developed by
 
 **Prakruthi G H**  
