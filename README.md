@@ -7,7 +7,7 @@ Daily Task Manager - [Live Demo](https://prakruthi-g-h.github.io/Daily-task-mana
 
 ## 🛠️ Technologies Used
 
-- HTML – Structure of the app
+- **HTML5** — Structure and content of the web page 
 - CSS – Styling and animations
 - JavaScript – DOM Manipulation for dynamic updates
 
