@@ -26,7 +26,7 @@ Daily Task Manager - [Live Demo](https://prakruthi-g-h.github.io/Daily-task-mana
 - ⚡ **Clear All Tasks** – Quickly remove all completed or pending tasks 
 - 🎨 **Modern UI Design** – Clean layout with hover animations and transitions  
 - 📋 **Responsive Design** – Optimized for mobile, tablet, and desktop  
-- ⚡ Instant updates via JavaScript DOM manipulation
+- 🔄 **Real-Time Updates** – Powered by JavaScript DOM manipulation  
 
 ## 🚀 How to Run
 1. Download or clone the repository:
