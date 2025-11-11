@@ -38,6 +38,8 @@ Daily Task Manager - [Live Demo](https://prakruthi-g-h.github.io/Daily-task-mana
 3. Open TaskManager.html in your browser or run using Live Server.
 4. Start adding and managing your daily tasks instantly — no backend required.
 
+## ✨ Future Enhancements
+
 ## 👩‍💻 Developed by
 
 **Prakruthi G H**  
