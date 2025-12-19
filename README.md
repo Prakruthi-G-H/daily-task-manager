@@ -2,8 +2,9 @@
 
 A simple and interactive daily task management app built using **HTML**, **CSS**, and **JavaScript**.
 
-## Live Demo Link
-Daily Task Manager - [Live Demo](https://prakruthi-g-h.github.io/Daily-task-manager/)
+🔗 Live Demo (Netlify):
+Daily Task Manager - [Live Demo](https://daily-task-manager-ui.netlify.app)
+
 
 ## 🛠️ Technologies Used
 
