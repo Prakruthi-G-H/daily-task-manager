@@ -15,7 +15,7 @@ Daily Task Manager - [Live Demo](https://daily-task-manager-ui.netlify.app)
 
 ## 📁 Project Structure
 
-- `TaskManager.html` → Main frontend HTML structure  
+- `index.html` → Main frontend HTML structure  
 - `TaskManager.css` →  Styling for layout and design
 - `TaskManager.js`  → JavaScript logic for adding, removing, and marking tasks
 - `README.md` → Project documentation
