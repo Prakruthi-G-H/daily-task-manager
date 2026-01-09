@@ -36,7 +36,7 @@ Daily Task Manager - [Live Demo](https://daily-task-manager-ui.netlify.app)
    git clone https://github.com/Prakruthi-G-H/daily-task-manager.git
    
 2. Open the folder in VS Code or any code editor.
-3. Open TaskManager.html in your browser or run using Live Server.
+3. Open index.html in your browser or run using Live Server.
 4. Start adding and managing your daily tasks instantly — no backend required.
 
 ## ✨ Future Enhancements
