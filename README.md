@@ -2,7 +2,7 @@
 
 A simple and interactive daily task management app built using **HTML**, **CSS**, and **JavaScript**.
 
-## 🔗 Live Demo (Netlify):
+<!--  ## 🔗 Live Demo (Netlify):
 Daily Task Manager - [Live Demo](https://daily-task-manager-ui.netlify.app)
 
 
