@@ -33,7 +33,7 @@ Daily Task Manager - [Live Demo](https://daily-task-manager-ui.netlify.app)
 ## 🚀 How to Run
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/Prakruthi-G-H/Daily-task-manager.git
+   git clone https://github.com/Prakruthi-G-H/daily-task-manager.git
    
 2. Open the folder in VS Code or any code editor.
 3. Open TaskManager.html in your browser or run using Live Server.
