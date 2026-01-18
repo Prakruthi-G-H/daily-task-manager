@@ -47,7 +47,7 @@ Daily Task Manager - [Live Demo](https://daily-task-manager-ui.netlify.app)
 - ☁️ Connect to backend (Java + MySQL) to store tasks permanently
 
   
-## 👩‍💻 Developed by
+## 👩‍💻 Developed By
 
 **Prakruthi G H**  
 📍 Bangalore, India  
